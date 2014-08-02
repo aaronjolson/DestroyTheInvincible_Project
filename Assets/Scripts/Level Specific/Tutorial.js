@@ -1,4 +1,6 @@
-﻿#pragma strict
+﻿// This script is used for changing between levels during the tutorial game.
+
+#pragma strict
  
  var levelMaster : LevelMaster;
  

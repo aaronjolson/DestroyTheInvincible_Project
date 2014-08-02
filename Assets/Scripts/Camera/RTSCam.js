@@ -1,4 +1,6 @@
-﻿#pragma strict	
+﻿#pragma strict
+
+	// This script controls the movement of the camera, it translates the camera when the mouse touches near the edges of the viewport
 
     var CamSpeed: float = 1.00;
     var GUIsize: float = 45;

@@ -1,4 +1,7 @@
-﻿	
+﻿//This script is for zooming the camera in and out using the scroll wheel on a mouse
+//due to compatibility issues with laptops it is not attached in the standard game build.	
+
+#pragma strict
 
     //zoom camera
     var distance : float = 60;
