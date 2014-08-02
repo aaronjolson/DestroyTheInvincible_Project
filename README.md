@@ -16,6 +16,8 @@ http://www.arongranberg.com/astar/download
 
 http://forum.unity3d.com/threads/ngui-free-edition.124032/
 
-I am hoping this project can grow and the game can improve.
+I have a video tutorial covering how to build this game on youtube http://youtu.be/IpEwzFCOSYU
+
+I am hoping this project can grow, people will add to it, and the game can improve.
 
 
