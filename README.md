@@ -9,7 +9,7 @@ Third Party libraries are governed by their own repective licenses.
 
 THIS GAME DOES NOT WORK OUT OF THE BOX!
 It requires NGUI and the Aron Granberg A* pathfinding libraries to run. To my knowledge I don't have the
-rights to distribute them so I cannot include them in this project.
+rights to distribute them so I cannot include them directly in this project.
 Both of which can be downloaded for free.
 
 http://www.arongranberg.com/astar/download
