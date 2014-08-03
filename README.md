@@ -3,7 +3,7 @@ DestroyTheInvincible_Project
 
 Tower Defense Game Built with Unity3D
 
-Playable demo up  at ajo3d.com/games
+Playable demo up  at http://ajo3d.com/games
 
 All assets are released to the public under the LGPL license. http://opensource.org/licenses/lgpl-2.1.php 
 
