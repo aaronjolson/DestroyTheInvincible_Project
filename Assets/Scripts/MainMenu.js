@@ -1,5 +1,7 @@
 ﻿#pragma strict
 
+//This script controls the main menu used in the beginning of the game
+
 var mainMenuTweener : TweenPosition;
 
 var levelSelectTweener : TweenPosition;
